@@ -8,7 +8,7 @@ WIN_COMBINATIONS = [
   [1,4,7],
   [2,5,8]
   ]
-board = ["X", "X", "O", "X", "O", "X", "X", "X", "O"]
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 def won?(board)
   winner = nil
