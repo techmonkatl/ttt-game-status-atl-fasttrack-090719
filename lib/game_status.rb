@@ -57,3 +57,4 @@ def winner(board)
   winner
 end
 
+winner(board)
